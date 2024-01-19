@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;500;700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+:root {
+  font-family: "Alegreya Sans", serif;
+  --value-color: blue;
+  --primary-gray: hsl(203, 4%, 60%);
+  --dark-gray: hsl(203, 4%, 20%);
+  --primary-light-gray: hsl(203, 4%, 80%);
+  --light-gray: hsl(203, 2%, 90%);
+  --data-label-gray: hsl(203, 4%, 30%);
+  --label-gray: hsl(203, 4%, 40%);
+  --highlight-color: orangered;
+  --focus-color: hsl(209, 91%, 51%);
+}
+
+
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
