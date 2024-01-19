@@ -3,6 +3,6 @@ import { svelte } from '@sveltejs/vite-plugin-svelte'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/makeover-monday/new-year-resolutions/",
+  base: "/new-year-resolutions/",
   plugins: [svelte()],
 })
